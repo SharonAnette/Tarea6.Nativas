@@ -71,3 +71,6 @@ Servicios de Google Play para RA instalados y actualizados.
 SceneView - Documentación oficial
 GLTF/GLB Viewer Online
 Modelos 3D de ejemplo
+
+## Link del funcionamiento
+https://youtube.com/shorts/HxbqL10q21I?feature=share
