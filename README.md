@@ -1,5 +1,5 @@
 # Tarea6Nativas 📱✨
-Aplicación Android nativa desarrollada en Kotlin que implementa un sistema de Realidad Aumentada (RA) usando SceneView. Permite detectar planos con la cámara, cargar y proyectar modelos 3D (.glb), e interactuar con ellos mediante gestos multitáctiles (mover, escalar y rotar). Ideal para experimentación, prácticas escolares y demostraciones de RA básica en dispositivos compatibles con ARCore.
+Aplicación Android nativa desarrollada en Kotlin que implementa un sistema de Realidad Aumentada (RA) usando SceneView. Permite detectar planos con la cámara, cargar y proyectar modelos 3D (.glb), e interactuar con ellos mediante gestos multitáctiles (mover, escalar y rotar). 
 
 ## 📦 Contenido del Proyecto
 MainActivity.kt – Configuración principal de la RA, detección de planos, carga de modelos y lógica de interacción.
